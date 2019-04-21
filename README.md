@@ -1,5 +1,6 @@
 # The proccess of learning using GCN (Karate Club task)
-[Presentation](https://github.com/VladislavTominin/ML/blob/master/ippi/presentation_ippi.pdf)
+# Content :
+# [Presentation]  (https://github.com/VladislavTominin/ML/blob/master/ippi/presentation_ippi.pdf)
 
 [Script](https://github.com/VladislavTominin/ML/blob/master/ippi/script.pdf)
 
