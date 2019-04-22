@@ -5,8 +5,11 @@ It's my presentation you've seen.
 
 [Script](https://github.com/VladislavTominin/ML/blob/master/ippi/script.pdf)
 Script for presentation.
-```
+
+**
 [Python notebook](https://github.com/VladislavTominin/ML/blob/master/ippi/ippi.ipynb)
+**
+```
 I really want you to look at this one! It's a solutiot to a Zachary's karate club problem.
 ```
 ![Farmers Market Finder Demo](https://github.com/VladislavTominin/ML/blob/master/ippi/movie_little.gif)
